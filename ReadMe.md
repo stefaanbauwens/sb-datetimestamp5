@@ -10,3 +10,7 @@ With :
     - minimum/maximum limit
     - multiple entry formats
     - today button    
+
+Screenshot :
+
+<img align="left" src=".\Screenshot.jpg">
